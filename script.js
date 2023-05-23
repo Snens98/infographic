@@ -1,7 +1,7 @@
 
 
 
-
+/*
 var width = 0;
 
 window.addEventListener('load', function () {
@@ -66,7 +66,7 @@ window.addEventListener('load', function () {
     bild.classList.add('hidden');
 });
 
-
+*/
 
 
 
